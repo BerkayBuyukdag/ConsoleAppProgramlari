@@ -11,6 +11,7 @@ namespace ConsoleAppProgramlari
         static void Main(string[] args)
         {
             Console.WriteLine("deneme");
+            Console.WriteLine("güncelleme denemesi");
         }
     }
 }
