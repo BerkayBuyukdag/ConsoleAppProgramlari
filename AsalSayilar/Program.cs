@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1_Deneme
+namespace AsalSayilar
 {
     class Program
     {
@@ -35,12 +35,12 @@ namespace ConsoleApp1_Deneme
 
                 for (int i = 1; i <= sayi / 2; i++)//sayıyı 1 değilde 2'den başlatınca 4'ü asal alıyor
                 {
-                    if (sayi % i == 0)
+                    if(sayi % i == 0)
                     {
                         kontrol++;
                     }
                 }
-                if (kontrol < 2 && sayi > 1)
+                if(kontrol < 2 && sayi>1)
                 {
                     Console.WriteLine("sayı asal");
                 }

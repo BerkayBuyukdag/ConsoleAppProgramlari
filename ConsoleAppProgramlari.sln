@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppProgramlari", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayilar", "AsalSayilar\AsalSayilar.csproj", "{F7F72240-C504-4674-BF6C-6AFAB5A19DEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-100 Arası Sayı Tahmin Eden Program", "1-100 Arası Sayı Tahmin Eden Program\1-100 Arası Sayı Tahmin Eden Program.csproj", "{4908E02A-6352-4A6E-8A9F-B42A97729832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyKavrami", "PropertyKavrami\PropertyKavrami.csproj", "{7C766514-BDB6-4F40-95DC-456D66A06CFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F7F72240-C504-4674-BF6C-6AFAB5A19DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F72240-C504-4674-BF6C-6AFAB5A19DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F72240-C504-4674-BF6C-6AFAB5A19DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4908E02A-6352-4A6E-8A9F-B42A97729832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4908E02A-6352-4A6E-8A9F-B42A97729832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4908E02A-6352-4A6E-8A9F-B42A97729832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4908E02A-6352-4A6E-8A9F-B42A97729832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C766514-BDB6-4F40-95DC-456D66A06CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C766514-BDB6-4F40-95DC-456D66A06CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C766514-BDB6-4F40-95DC-456D66A06CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C766514-BDB6-4F40-95DC-456D66A06CFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
